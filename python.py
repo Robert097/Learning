@@ -1,0 +1,3 @@
+#Script
+
+print ("hello world")
